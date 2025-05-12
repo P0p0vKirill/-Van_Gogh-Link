@@ -129,6 +129,7 @@ body {
 
 .basket span {
   position: absolute;
+  color: #1a1a1a;
   width: 18px;
   height: 18px;
   border-radius: 50%;
@@ -166,7 +167,7 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .card__picture {
